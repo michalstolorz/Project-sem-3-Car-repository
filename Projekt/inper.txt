@@ -1,0 +1,5 @@
+87120215421, Jan, Kowalski, 02.12.1987, Bronowice ul. Partyzantow 2,
+78021452687, Adam, Nowak, 14.02.1978, Katowice ul. Ciasna 32,
+95051654831, Maciej, Mrowiec, 16.05.1995, Krakow ul. Wolnosci 74,
+66070494852, Kacper, Calik, 04.07.1966, Radziechowy ul. Rzeczna 45,
+76102116849, Krzysztof, Jurak, 21.10.1976, Istebna ul. Zielona 3,

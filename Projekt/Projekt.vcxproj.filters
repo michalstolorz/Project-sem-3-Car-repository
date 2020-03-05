@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\funkcje pomocnicze">
+      <UniqueIdentifier>{1f772e40-2a84-40bc-9a4c-a30a0bde726b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\główne funkcje">
+      <UniqueIdentifier>{26c5799a-064e-4ab5-b42c-81a05d12d2fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\funkcje pomocnicze">
+      <UniqueIdentifier>{90793ba2-524c-49fd-b812-e7ca294d8a90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\główne funkcje">
+      <UniqueIdentifier>{060304c4-10c7-486c-abff-4ba9621bc220}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\klasy podstawowe">
+      <UniqueIdentifier>{13b87ad4-9ed6-4eb7-a982-d2048c446a13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\klasy podstawowe">
+      <UniqueIdentifier>{ce87fc1c-95a8-4079-a642-ac74a5ee4984}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\klasy-filtr">
+      <UniqueIdentifier>{0031a774-9217-4ccd-80f8-f17a71c5d840}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\klasy filtr">
+      <UniqueIdentifier>{937f23b3-93af-4210-b9c0-ae234f3290d0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="inicjalizacja_relacji.cpp">
+      <Filter>Source Files\główne funkcje</Filter>
+    </ClCompile>
+    <ClCompile Include="inicjalizacja_samochodow.cpp">
+      <Filter>Source Files\główne funkcje</Filter>
+    </ClCompile>
+    <ClCompile Include="inicjalizacja_wlascicieli.cpp">
+      <Filter>Source Files\główne funkcje</Filter>
+    </ClCompile>
+    <ClCompile Include="Relacje.cpp">
+      <Filter>Source Files\klasy podstawowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Samochody.cpp">
+      <Filter>Source Files\klasy podstawowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Wlasciciele.cpp">
+      <Filter>Source Files\klasy podstawowe</Filter>
+    </ClCompile>
+    <ClCompile Include="wielkosci_tablic.cpp">
+      <Filter>Source Files\funkcje pomocnicze</Filter>
+    </ClCompile>
+    <ClCompile Include="fragmentacja_stringa.cpp">
+      <Filter>Source Files\funkcje pomocnicze</Filter>
+    </ClCompile>
+    <ClCompile Include="filtr.cpp">
+      <Filter>Source Files\klasy-filtr</Filter>
+    </ClCompile>
+    <ClCompile Include="filtr_marka.cpp">
+      <Filter>Source Files\klasy-filtr</Filter>
+    </ClCompile>
+    <ClCompile Include="filtr_kolor.cpp">
+      <Filter>Source Files\klasy-filtr</Filter>
+    </ClCompile>
+    <ClCompile Include="filtr_wiek.cpp">
+      <Filter>Source Files\klasy-filtr</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>Source Files\funkcje pomocnicze</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="inicjalizacja_relacji.h">
+      <Filter>Header Files\główne funkcje</Filter>
+    </ClInclude>
+    <ClInclude Include="Relacje.h">
+      <Filter>Header Files\klasy podstawowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Samochody.h">
+      <Filter>Header Files\klasy podstawowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Wlasciciele.h">
+      <Filter>Header Files\klasy podstawowe</Filter>
+    </ClInclude>
+    <ClInclude Include="wielkosci_tablic.h">
+      <Filter>Header Files\funkcje pomocnicze</Filter>
+    </ClInclude>
+    <ClInclude Include="inicjalizacja_wlascicieli.h">
+      <Filter>Header Files\główne funkcje</Filter>
+    </ClInclude>
+    <ClInclude Include="inicjalizacja_samochodow.h">
+      <Filter>Header Files\główne funkcje</Filter>
+    </ClInclude>
+    <ClInclude Include="fragmentacja_stringa.h">
+      <Filter>Header Files\funkcje pomocnicze</Filter>
+    </ClInclude>
+    <ClInclude Include="filtr.h">
+      <Filter>Header Files\klasy filtr</Filter>
+    </ClInclude>
+    <ClInclude Include="filtr_marka.h">
+      <Filter>Header Files\klasy filtr</Filter>
+    </ClInclude>
+    <ClInclude Include="filtr_kolor.h">
+      <Filter>Header Files\klasy filtr</Filter>
+    </ClInclude>
+    <ClInclude Include="filtr_wiek.h">
+      <Filter>Header Files\klasy filtr</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>Header Files\funkcje pomocnicze</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

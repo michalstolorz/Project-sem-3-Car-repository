@@ -1,0 +1,8 @@
+1, BMW, czarny, 2013, 95246,
+2, Mercedes, czerwony, 2008, 130548,
+3, Volvo, niebieski, 2009, 156842,
+4, Fiat, czerwony, 2015, 86548,
+5, Skoda, zielony, 2005, 185623,
+6, Volvo, srebrny, 2013, 74251,
+7, Ford, czerwony, 2017, 43548,
+8, Mercedes, srebrny, 2013, 120654,
